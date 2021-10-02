@@ -13,7 +13,16 @@
     Description  Vachar(750)   NULL
     );
   ```
-
+- CREATE TEMPORARY TABLE - Create temporary tables (faster, simplifies complex queries, and are deleted when a session is ended)
+  ```sql
+  CREATE TEMPORARY TABLE Gucci AS
+    (
+    SELECT * 
+    FROM Shoes
+    WHERE Brand="Gucci"
+    );
+  ```
+  Note that "=" is used rather than "==".
 
 - INSERT INTO - Insert entries into table
   ```sql
