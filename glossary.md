@@ -53,7 +53,9 @@
     NULL
     );
   ```
-  
+- GROUP BY - Helps group entries based on a list of column names
+- HAVING -  Used at the end. Used for filtering based on some criteria (after GROUP BY)
+- ORDER BY - Used at the end. Used for ordering based on some criteria (after GROUP BY)
 
 # Other things
 
@@ -61,3 +63,5 @@
 - End of a statement must end with ";"
 - Generally commmands don't have underscores
 - Different flavours of SQL have slightly different syntax
+- Wildcards represented by "%". Wildcards take longer to process
+ 
