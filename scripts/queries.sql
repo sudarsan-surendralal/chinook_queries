@@ -1,3 +1,6 @@
+/* These are some of the queries used in the Coursera course */
+
+
 /* 1. How many albums does the artist Led Zeppelin
 have?  */
 
