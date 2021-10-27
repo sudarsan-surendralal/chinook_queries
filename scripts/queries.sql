@@ -1,4 +1,4 @@
-/* These are some of the queries used in the Coursera course */
+/* These are some of the queries used in the Coursera course "SQL for Data Science" (https://de.coursera.org/learn/sql-for-data-science) */
 
 
 /* 1. How many albums does the artist Led Zeppelin
